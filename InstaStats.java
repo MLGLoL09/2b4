@@ -7,6 +7,8 @@ public class InstaStats {
 
     public static String statistik(String text) {
         String häufigkeiten = "a: ";
+        char letter;
+        
 
         return häufigkeiten;
     }
