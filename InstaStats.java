@@ -12,5 +12,5 @@ public class InstaStats {
 
         return häufigkeiten;
     }
-
+    tests
 }
